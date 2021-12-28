@@ -1,4 +1,4 @@
-- hosts: ubuntu1
+- hosts: ubuntu2
   
   become: true
 
