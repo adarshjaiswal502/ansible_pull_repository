@@ -1,4 +1,4 @@
-- hosts: ubuntu2
+- hosts: all
   
   become: true
 
