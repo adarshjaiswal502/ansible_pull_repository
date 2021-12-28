@@ -1,2 +1,2 @@
-[ubuntu2]
+[all]
 ubuntu2 ansible_host=172.16.157.131 ansible_user=adarshjaiswal ansible_pass=0502
