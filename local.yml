@@ -1,5 +1,5 @@
 - hosts: ubuntu1
-  connection: local
+  
   become: true
 
   tasks:
